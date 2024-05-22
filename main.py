@@ -1,6 +1,4 @@
-import exercise7 as seven
-import exercise8 as eight
-import exercise9 as nine
+from Exercise import exercise8 as eight, exercise9 as nine, exercise7 as seven
 
 info = '''Напишите число, которое соответствует заданию из списка:
 \t1. Упражнение 7
